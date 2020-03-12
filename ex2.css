@@ -1,0 +1,19 @@
+header{
+    background: skyblue;
+    color: goldenrod;
+    font-family: fantasy;
+    letter-spacing: 20px;
+    font-size: x-large;
+}
+
+h2{
+    background: lavender;
+}
+h3{
+    background: springgreen;
+    border-radius: 200px;
+    font-size: larger;
+}
+body{
+    background: silver;
+}
